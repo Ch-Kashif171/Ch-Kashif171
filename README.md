@@ -18,10 +18,6 @@ Welcome to my GitHub! **Senior Backend & PHP (Laravel) Developer** with 8+ years
 
 ⚡ **Fun fact:** I enjoy turning messy systems into clean, readable code—and documenting them so future developers don’t suffer 😄
 
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-kashif-sohail-ba3b8352/)
 
 ---
 
@@ -50,6 +46,12 @@ Welcome to my GitHub! **Senior Backend & PHP (Laravel) Developer** with 8+ years
 
 ## 📊 GitHub Stats
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ch-Kashif171&theme=dark&hide_border=false)
+
+---
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-kashif-sohail-ba3b8352/)
+
 
 ---
 
