@@ -33,6 +33,7 @@ Welcome to my GitHub! I’m a **Senior Backend & PHP (Laravel) Developer** with 
 ### [Larite PHP MVC Framework](https://larite.dev/)
 I develop **Larite**, a custom PHP MVC framework built entirely from scratch and inspired by Laravel, for building scalable and maintainable web applications.  
 I implemented features like routing, middleware, controllers, models, relationships, and more—so developers can enjoy a **Laravel-style structure** without the full Laravel overhead.
+
 📖 **Documentation:** [https://larite.dev/](https://larite.dev/)
 
 ---
