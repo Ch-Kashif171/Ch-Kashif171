@@ -43,9 +43,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ch-Kashif171&theme=dark&show_icons=true&hide_border=false)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ch-Kashif171&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch-Kashif171&theme=dark&layout=compact&hide_border=false)
 
 ---
 
