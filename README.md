@@ -1,10 +1,16 @@
+👋 Hello, I'm **M Kashif Sohail**  
+
+Welcome to my GitHub! I'm a **Senior PHP Developer & Team Lead** at **Izar Solutions & Services**, with **8+ years of experience** building robust backend systems and architecting scalable solutions.
+
+---
+
 # 💫 About Me
 
 🔭 **Currently working on** backend systems with **PHP (Laravel)** and **Python**, focusing on clean architecture and complex business logic.  
 
 👯 **Open to collaborating on** backend projects, APIs, automation, and open-source work.  
 
-🤝 **Looking for help with** scalable system design, performance optimization, and integrating AI/ML into backend workflows.  
+🤝 **Looking for help with** scalable system design, performance optimization, and AI/ML integration in backend workflows.  
 
 🌱 **Currently learning** Machine Learning and Artificial Intelligence with practical Python applications.  
 
@@ -43,7 +49,9 @@
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ch-Kashif171&theme=dark&show_icons=true&hide_border=false)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ch-Kashif171&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch-Kashif171&theme=dark&layout=compact&hide_border=false)
 
 ---
 
