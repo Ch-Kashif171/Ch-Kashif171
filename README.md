@@ -1,6 +1,6 @@
 👋 Hello, I'm **M Kashif Sohail**  
 
-Welcome to my GitHub! I'm a **Senior PHP Developer & Team Lead** at **Izar Solutions & Services**, with **8+ years of experience** building robust backend systems and architecting scalable solutions.
+Welcome to my GitHub! I'm a **Senior PHP Developer with **8+ years of experience** building robust backend systems and architecting scalable solutions.
 
 ---
 
@@ -49,9 +49,7 @@ Welcome to my GitHub! I'm a **Senior PHP Developer & Team Lead** at **Izar Solut
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ch-Kashif171&theme=dark&show_icons=true&hide_border=false)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ch-Kashif171&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch-Kashif171&theme=dark&layout=compact&hide_border=false)
 
 ---
 
