@@ -1,5 +1,14 @@
 👋 Hello, I'm **M Kashif Sohail**  
 
+---
+
+<!-- GitHub Stats Badges -->
+![GitHub stars](https://img.shields.io/github/stars/Ch-Kashif171?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Ch-Kashif171?style=for-the-badge)
+![Profile Views](https://visitcount.itsvg.in/api?id=Ch-Kashif171&icon=0&color=0)
+
+---
+
 Welcome to my GitHub! **Senior Backend & PHP (Laravel) Developer** with 8+ years of experience building robust backend systems and architecting scalable solutions.
 
 ---
