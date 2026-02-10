@@ -4,7 +4,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/Ch-Kashif171?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Ch-Kashif171?style=social)
-![Profile Views](https://visitcount.itsvg.in/api?id=Ch-Kashif171&icon=0&color=0)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-green)
 
 ---
 
