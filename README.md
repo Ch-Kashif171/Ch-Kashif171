@@ -38,6 +38,11 @@ I implemented features like routing, middleware, controllers, models, relationsh
 
 ---
 
+## 📊 GitHub Stats
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ch-Kashif171&theme=dark&hide_border=false)
+
+---
+
 ## 💻 Tech Stack
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -61,8 +66,10 @@ I implemented features like routing, middleware, controllers, models, relationsh
 
 ---
 
-## 📊 GitHub Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ch-Kashif171&theme=dark&hide_border=false)
+## 📄 Resume / Portfolio
+
+You can view my detailed **resume and portfolio** here:  
+[![Resume](https://img.shields.io/badge/View_Resume-%230077B5?style=for-the-badge&logo=github&logoColor=white)](https://ch-kashif171.github.io/)
 
 ---
 
