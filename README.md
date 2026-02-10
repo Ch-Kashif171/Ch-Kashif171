@@ -38,8 +38,10 @@ I implemented features like routing, middleware, controllers, models, relationsh
 
 ---
 
-## 📊 GitHub Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ch-Kashif171&theme=dark&hide_border=false)
+## 📄 Resume / Portfolio
+
+You can view my detailed **resume and portfolio** here:  
+[![Resume](https://img.shields.io/badge/View_Resume-%230077B5?style=for-the-badge&logo=github&logoColor=white)](https://ch-kashif171.github.io/)
 
 ---
 
@@ -66,10 +68,8 @@ I implemented features like routing, middleware, controllers, models, relationsh
 
 ---
 
-## 📄 Resume / Portfolio
-
-You can view my detailed **resume and portfolio** here:  
-[![Resume](https://img.shields.io/badge/View_Resume-%230077B5?style=for-the-badge&logo=github&logoColor=white)](https://ch-kashif171.github.io/)
+## 📊 GitHub Stats
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ch-Kashif171&theme=dark&hide_border=false)
 
 ---
 
