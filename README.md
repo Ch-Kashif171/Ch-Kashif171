@@ -1,23 +1,16 @@
-<!-- GitHub Stats Badges -->
-![GitHub stars](https://img.shields.io/github/stars/Ch-Kashif171?style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Ch-Kashif171?style=for-the-badge)
-![Profile Views](https://visitcount.itsvg.in/api?id=Ch-Kashif171&icon=0&color=0)
-
----
-
 # 💫 About Me
 
-🔭 **Currently working on** backend systems using **PHP (Laravel)** and **Python**, with a strong focus on clean architecture and real-world business logic.
+🔭 **Currently working on** backend systems with **PHP (Laravel)** and **Python**, focusing on clean architecture and complex business logic.  
 
-👯 **Open to collaborating on** backend development, APIs, automation tools, and open-source projects.
+👯 **Open to collaborating on** backend projects, APIs, automation, and open-source work.  
 
-🤝 **Looking for help with** scalable system design, performance optimization, and practical AI/ML integration in backend workflows.
+🤝 **Looking for help with** scalable system design, performance optimization, and integrating AI/ML into backend workflows.  
 
-🌱 **Currently learning** Machine Learning and Artificial Intelligence, focusing on hands-on Python use cases.
+🌱 **Currently learning** Machine Learning and Artificial Intelligence with practical Python applications.  
 
-💬 **Ask me about** Laravel, backend architecture, databases, refactoring legacy code, and documenting complex logic.
+💬 **Ask me about** Laravel internals, backend architecture, databases, refactoring legacy code, and documenting complex logic.  
 
-⚡ **Fun fact:** I enjoy turning messy systems into clean, readable code—and documenting it so future developers don’t suffer 😄
+⚡ **Fun fact:** I enjoy turning messy systems into clean, readable code—and documenting them so future developers don’t suffer 😄
 
 ---
 
@@ -27,45 +20,34 @@
 ---
 
 ## 💻 Tech Stack
-
-### Backend & Languages
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/adonisjs-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
-
-### Frameworks
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### Frontend
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82)
-
-### Databases & Caching
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Ch-Kashif171&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Ch-Kashif171&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch-Kashif171&theme=dark&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ch-Kashif171&theme=dark&show_icons=true&hide_border=false)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ch-Kashif171&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch-Kashif171&theme=dark&layout=compact&hide_border=false)
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
