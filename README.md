@@ -1,6 +1,6 @@
 👋 Hello, I'm **M Kashif Sohail**  
 
-Welcome to my GitHub! I'm a **Senior PHP Developer with **8+ years of experience** building robust backend systems and architecting scalable solutions.
+Welcome to my GitHub! **Senior Backend & PHP (Laravel) Developer** with 8+ years of experience building robust backend systems and architecting scalable solutions.
 
 ---
 
