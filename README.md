@@ -1,14 +1,14 @@
-## 👋 **Hello, I'm M Kashif Sohail**
+## 👋 ## **Hello, I'm M Kashif Sohail**
 
 ---
 
 ![GitHub stars](https://img.shields.io/github/stars/Ch-Kashif171?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Ch-Kashif171?style=social)
-![Profile Views](https://img.shields.io/badge/Profile%20Views-0-green)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Ch-Kashif171)
 
 ---
 
-Welcome to my GitHub! **Senior Backend & PHP (Laravel) Developer** with 8+ years of experience building robust backend systems and architecting scalable solutions.
+Welcome to my GitHub! I’m a **Senior Backend & PHP (Laravel) Developer** with 8+ years of experience building robust backend systems and architecting scalable solutions.
 
 ---
 
@@ -26,6 +26,15 @@ Welcome to my GitHub! **Senior Backend & PHP (Laravel) Developer** with 8+ years
 
 ⚡ **Fun fact:** I enjoy turning messy systems into clean, readable code—and documenting them so future developers don’t suffer 😄
 
+---
+
+## 🏆 Achievements / Notable Work
+
+### [Larite PHP MVC Framework](https://larite.dev/)
+A **custom PHP MVC framework inspired by Laravel**, designed for building scalable and maintainable web applications.  
+Features include routing, middleware, controllers, models, relationships, and more—perfect for developers who want **Laravel-style structure** without the full Laravel overhead.  
+
+📖 **Documentation:** [https://larite.dev/](https://larite.dev/)
 
 ---
 
@@ -59,8 +68,3 @@ Welcome to my GitHub! **Senior Backend & PHP (Laravel) Developer** with 8+ years
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-kashif-sohail-ba3b8352/)
-
-
----
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
