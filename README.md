@@ -21,7 +21,7 @@ Specializing in **Laravel, PHP, backend architecture, and AI-assisted coding wor
 
 ## 🚀 About Me
 
-I’m **Kashif Sohail**, a **Senior Backend Developer and System Architect** from Pakistan. I have **8+ years of experience building scalable backend systems, designing RESTful APIs, and refactoring complex legacy systems**.
+I’m a **Senior Backend Developer and System Architect**. I have **8+ years of experience building scalable backend systems, designing RESTful APIs, and refactoring complex legacy systems**.
 
 **Key Expertise:**
 - **Backend Development:** Laravel, PHP, Node.js, Django
