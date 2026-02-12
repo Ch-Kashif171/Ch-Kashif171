@@ -172,7 +172,7 @@ I care deeply about clean code, system clarity, and long-term maintainability ov
 
 ---
 
-# 🚀 🤝 OPEN TO HIGH-IMPACT COLLABORATION
+# 🤝 OPEN TO HIGH-IMPACT COLLABORATION
 
 ## I Partner On Projects That Demand:
 
