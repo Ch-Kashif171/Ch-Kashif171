@@ -129,10 +129,6 @@ I care deeply about clean code, system clarity, and long-term maintainability ov
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ch-Kashif171&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
 </p>
 
-<br>
-
----
-
 ---
 
 # 🌟 Core Expertise & Architectural Strengths
