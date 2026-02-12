@@ -44,7 +44,7 @@ I care deeply about clean code, system clarity, and long-term maintainability ov
 *Enjoy Laravel-style elegance without the overhead*
 
 [![Documentation](https://img.shields.io/badge/Documentation-Visit-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://larite.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ch-Kashif171)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ch-Kashif171/larite)
 
 </div>
 
