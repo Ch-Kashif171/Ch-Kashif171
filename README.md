@@ -40,56 +40,6 @@ Clean Architecture & Design Patterns • Microservices Architecture • Database
 
 ---
 
-## 🛠️ Technical Expertise
-
-### 🔧 Backend Development
-
-**Languages:** PHP • JavaScript • TypeScript • Python
-
-**Frameworks:** Laravel (Expert) • Node.js • AdonisJS • Django • FastAPI
-
-**API Design:** RESTful APIs • GraphQL basics • API Documentation (Swagger/OpenAPI)
-
-**Architecture:** MVC • Repository Pattern • Service Layer • Microservices
-
-**Best Practices:** SOLID Principles • Clean Code • Design Patterns • TDD
-
-### 🗄️ Database & Caching
-
-**Relational:** MySQL • PostgreSQL  
-**NoSQL:** MongoDB • Redis  
-**ORM:** Eloquent • Django ORM • SQLAlchemy  
-**Expertise:** Query Optimization • Indexing • Database Design • Migration Management
-
-### ☁️ DevOps & Infrastructure
-
-**Containerization:** Docker • Docker Compose  
-**Cloud:** AWS (EC2, S3, RDS, Lambda)  
-**Servers:** Nginx • Apache  
-**CI/CD:** GitHub Actions • Jenkins  
-**OS:** Linux (Ubuntu, CentOS) • Windows Server
-
-### 🎨 Frontend (Supporting Skills)
-
-**Frameworks:** Vue.js • Nuxt.js  
-**Libraries:** jQuery • Ajax  
-**Styling:** Bootstrap • CSS3  
-**Build Tools:** Webpack • Vite  
-**Skills:** Component Development • State Management • API Integration • Dynamic Content Loading
-
----
-
-## 💪 Core Strengths
-
-| 🏗️ **Architecture** | 🔌 **API Development** | 💾 **Database Design** | 🚀 **Performance** |
-|:---|:---|:---|:---|
-| Clean Architecture | RESTful APIs | Query Optimization | Caching Strategies |
-| Design Patterns | GraphQL | Indexing | Load Balancing |
-| Microservices | Authentication | Migration Management | Code Optimization |
-| SOLID Principles | API Documentation | Relationship Design | Scalability |
-
----
-
 ## 🏆 Featured Project
 
 <div align="center">
@@ -153,16 +103,11 @@ Clean Architecture & Design Patterns • Microservices Architecture • Database
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-*Tracking my journey since 2017*
-
-</div>
-
-<br>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ch-Kashif171&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=Ch-Kashif171&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -196,7 +141,7 @@ I'm always interested in working on:
 - 🔧 API development & optimization
 - 🤖 Automation & scripting solutions
 - 📦 Open-source initiatives
-- 🎓 Mentoring & knowledge sharing  
+- 🎓 Mentoring & knowledge sharing
 
 ---
 
