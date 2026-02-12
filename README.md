@@ -30,6 +30,14 @@
 | **Specialization:** Backend Architecture & API Development | ✅ **Passionate** about clean code & best practices |
 | | ✅ **Active** open-source contributor |
 
+### 🎯 Current Focus
+
+🏗️ Building scalable backend systems • 🔌 Designing robust RESTful APIs • 🧹 Refactoring legacy code • 📚 Creating technical documentation • 🤖 Exploring ML/AI integration • 🌟 Contributing to open-source
+
+### 🌟 Special Skills
+
+Clean Architecture & Design Patterns • Microservices Architecture • Database Design & Optimization • API Security & Authentication • Performance Tuning & Caching
+
 ---
 
 ## 🏆 Featured Project
@@ -94,12 +102,12 @@
 ---
 
 ## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ch-Kashif171&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ch-Kashif171&theme=tokyonight" alt="GitHub Profile Summary"/>
-</p>
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=Ch-Kashif171&theme=tokyonight" />
 </p>
 
 <p align="center">
