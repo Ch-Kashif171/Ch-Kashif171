@@ -12,6 +12,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ch-Kashif171&color=blueviolet&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Ch-Kashif171?style=for-the-badge&color=yellow)
+![Followers](https://github-readme-stats.vercel.app/api?username=Ch-Kashif171&show_icons=true&include_all_commits=false&count_private=false&theme=tokyonight&hide=stars&hide=commits)
 ![GitHub stars](https://img.shields.io/github/stars/Ch-Kashif171?style=for-the-badge&color=orange)
 
 </div>
