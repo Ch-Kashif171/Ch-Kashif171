@@ -20,168 +20,116 @@
 
 ## 🚀 About Me
 
-```php
-<?php
+<table>
+<tr>
+<td width="50%" valign="top">
 
-namespace Developer;
+### 👨‍💻 Professional Profile
 
-class KashifSohail extends Developer implements BackendExpert
-{
-    private string $name = "M Kashif Sohail";
-    private string $role = "Senior Backend Developer";
-    private int $experienceYears = 8;
-    private string $location = "Karachi, Pakistan";
-    private string $email = "contact@example.com"; // Update with your email
-    
-    public function __construct()
-    {
-        $this->initializeSkills();
-        $this->loadProjects();
-        $this->setGoals();
-    }
+**Name:** M Kashif Sohail  
+**Role:** Senior Backend Developer  
+**Experience:** 8+ Years  
+**Location:** Karachi, Pakistan  
+**Specialization:** Backend Architecture & API Development
 
-    public function getCurrentWork(): array
-    {
-        return [
-            'company' => 'Building innovative solutions',
-            'position' => 'Senior Backend Developer',
-            'focus' => [
-                'Backend Systems Architecture',
-                'RESTful API Development',
-                'Clean Code & SOLID Principles',
-                'Database Optimization',
-                'Microservices Design'
-            ],
-            'technologies' => [
-                'primary' => ['PHP 8.x', 'Laravel 10.x', 'Python 3.x'],
-                'secondary' => ['Node.js', 'Django', 'FastAPI']
-            ],
-            'learning' => [
-                'Machine Learning with Python',
-                'AI Integration in Backend',
-                'Advanced System Design Patterns',
-                'Cloud Architecture (AWS)'
-            ]
-        ];
-    }
+### 🎯 Current Focus
 
-    public function getSkills(): array
-    {
-        return [
-            'backend' => [
-                'expert' => ['Laravel', 'PHP', 'RESTful APIs'],
-                'advanced' => ['Django', 'FastAPI', 'Node.js', 'AdonisJS'],
-                'familiar' => ['Flask', 'Express.js']
-            ],
-            'frontend' => [
-                'frameworks' => ['Vue.js', 'Nuxt.js'],
-                'languages' => ['JavaScript', 'TypeScript', 'HTML5', 'CSS3']
-            ],
-            'databases' => [
-                'relational' => ['MySQL', 'PostgreSQL'],
-                'nosql' => ['MongoDB', 'Redis'],
-                'orm' => ['Eloquent', 'Django ORM', 'SQLAlchemy']
-            ],
-            'devops' => [
-                'containerization' => ['Docker', 'Docker Compose'],
-                'cloud' => ['AWS (EC2, S3, RDS, Lambda)'],
-                'servers' => ['Nginx', 'Apache'],
-                'os' => ['Linux (Ubuntu, CentOS)', 'Windows Server']
-            ],
-            'tools' => [
-                'version_control' => ['Git', 'GitHub', 'GitLab'],
-                'ci_cd' => ['GitHub Actions', 'Jenkins'],
-                'testing' => ['PHPUnit', 'Pytest', 'Jest'],
-                'api_tools' => ['Postman', 'Swagger/OpenAPI']
-            ],
-            'architecture' => [
-                'patterns' => ['MVC', 'Repository Pattern', 'Service Layer'],
-                'principles' => ['SOLID', 'DRY', 'KISS', 'Clean Architecture'],
-                'api_design' => ['REST', 'GraphQL basics'],
-                'concepts' => ['Microservices', 'Event-Driven Architecture']
-            ]
-        ];
-    }
+- 🏗️ Building scalable backend systems
+- 🔌 Designing robust RESTful APIs
+- 🧹 Refactoring legacy code
+- 📚 Creating technical documentation
+- 🤖 Exploring ML/AI integration
+- 🌟 Contributing to open-source
 
-    public function getProjects(): array
-    {
-        return [
-            [
-                'name' => 'Larite PHP MVC Framework',
-                'description' => 'Custom MVC framework built from scratch',
-                'tech_stack' => ['PHP', 'OOP', 'Design Patterns'],
-                'url' => 'https://larite.dev/',
-                'highlights' => [
-                    'Complete routing system with middleware',
-                    'Eloquent-style ORM with relationships',
-                    'Built-in authentication & authorization',
-                    'Comprehensive documentation'
-                ]
-            ],
-            [
-                'name' => 'Enterprise Backend Solutions',
-                'description' => 'Scalable APIs for various business domains',
-                'tech_stack' => ['Laravel', 'MySQL', 'Redis', 'AWS'],
-                'highlights' => [
-                    'Handling 10K+ requests per minute',
-                    'Advanced caching strategies',
-                    'Microservices architecture'
-                ]
-            ]
-        ];
-    }
+</td>
+<td width="50%" valign="top">
 
-    public function getCodePhilosophy(): array
-    {
-        return [
-            '✨ Write code that humans can read',
-            '📚 Document like your future self will thank you',
-            '🧪 Test before you trust',
-            '♻️ Refactor ruthlessly, but wisely',
-            '🎯 Solve the problem, not just the symptom',
-            '🤝 Collaborate, communicate, contribute'
-        ];
-    }
+### 💼 What I Bring to the Table
 
-    public function dailyRoutine(): void
-    {
-        $this->drinkCoffee();
-        $this->writeCleanCode();
-        $this->reviewPullRequests();
-        $this->learnSomethingNew();
-        $this->helpOthers();
-        $this->repeat();
-    }
+✅ **8+ years** of backend development experience  
+✅ **Expert** in Laravel, PHP, and Python  
+✅ **Proven** track record in API design  
+✅ **Strong** database optimization skills  
+✅ **Experience** with cloud infrastructure (AWS)  
+✅ **Passionate** about clean code & best practices  
+✅ **Active** open-source contributor
 
-    public function getContactInfo(): array
-    {
-        return [
-            'linkedin' => 'https://www.linkedin.com/in/m-kashif-sohail-ba3b8352/',
-            'portfolio' => 'https://ch-kashif171.github.io/',
-            'github' => 'https://github.com/Ch-Kashif171',
-            'availability' => 'Open for collaboration and interesting projects'
-        ];
-    }
+### 🌟 Special Skills
 
-    public function isAvailableForWork(): bool
-    {
-        return true; // Always open to interesting opportunities!
-    }
-}
+- Clean Architecture & Design Patterns
+- Microservices Architecture
+- Database Design & Optimization
+- API Security & Authentication
+- Performance Tuning & Caching
 
-// Let's connect and build something amazing together! 🚀
-```
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 What I Do
+## 🛠️ Technical Expertise
 
-- 🏗️ **Build** robust backend systems with clean, maintainable architecture
-- 🔌 **Design** RESTful APIs that scale and perform under pressure
-- 🛠️ **Refactor** legacy code into modern, documented, and testable solutions
-- 📚 **Create** comprehensive documentation that saves developers time
-- 🤝 **Collaborate** on open-source projects and innovative solutions
-- 🎓 **Mentor** developers in backend best practices and Laravel internals
+<details open>
+<summary><b>🔧 Backend Development</b></summary>
+<br>
+
+**Languages:** PHP 8.x, Python 3.x, JavaScript, TypeScript  
+**Frameworks:** Laravel (Expert), Django, FastAPI, Node.js, AdonisJS  
+**API Design:** RESTful APIs, GraphQL basics, API Documentation (Swagger/OpenAPI)  
+**Architecture:** MVC, Repository Pattern, Service Layer, Microservices  
+**Best Practices:** SOLID Principles, Clean Code, Design Patterns, TDD
+
+</details>
+
+<details>
+<summary><b>🗄️ Database & Caching</b></summary>
+<br>
+
+**Relational:** MySQL, PostgreSQL  
+**NoSQL:** MongoDB, Redis  
+**ORM:** Eloquent, Django ORM, SQLAlchemy  
+**Skills:** Query Optimization, Indexing, Database Design, Migration Management
+
+</details>
+
+<details>
+<summary><b>☁️ DevOps & Infrastructure</b></summary>
+<br>
+
+**Containerization:** Docker, Docker Compose  
+**Cloud:** AWS (EC2, S3, RDS, Lambda)  
+**Web Servers:** Nginx, Apache  
+**CI/CD:** GitHub Actions, Jenkins  
+**Operating Systems:** Linux (Ubuntu, CentOS), Windows Server
+
+</details>
+
+<details>
+<summary><b>🎨 Frontend (Supporting Skills)</b></summary>
+<br>
+
+**Frameworks:** Vue.js, Nuxt.js  
+**Styling:** TailwindCSS, Bootstrap  
+**Tools:** Webpack, Vite  
+**Skills:** Component Development, State Management, API Integration
+
+</details>
+
+---
+
+## 💪 Core Strengths
+
+<div align="center">
+
+| 🏗️ Architecture | 🔌 API Development | 💾 Database Design | 🚀 Performance |
+|:---:|:---:|:---:|:---:|
+| Clean Architecture | RESTful APIs | Query Optimization | Caching Strategies |
+| Design Patterns | GraphQL | Indexing | Load Balancing |
+| Microservices | Authentication | Migration Management | Code Optimization |
+| SOLID Principles | API Documentation | Relationship Design | Scalability |
+
+</div>
 
 ---
 
@@ -246,202 +194,59 @@ class KashifSohail extends Developer implements BackendExpert
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ch-Kashif171&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ch-Kashif171&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ch-Kashif171&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ch-Kashif171&theme=tokyonight" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ch-Kashif171&theme=tokyonight" alt="Top Languages by Commit"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch-Kashif171&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ch-Kashif171&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ch-Kashif171&theme=tokyonight" alt="Productive Time"/>
+</p>
 
 ---
 
-## 🎓 Expertise Areas
+## 💡 Current Focus & Goals
 
 <table>
 <tr>
 <td width="50%">
 
-### Backend Development
-- Clean Architecture & Design Patterns
-- RESTful API Design & Development
-- Microservices Architecture
-- Database Design & Optimization
-- Performance Tuning & Caching
-- Queue Management & Background Jobs
+### 🎯 Working On
+- Building scalable backend systems
+- RESTful API architecture
+- System design & optimization
+- Open-source contributions
+- Technical documentation
 
 </td>
 <td width="50%">
 
-### Technical Leadership
-- Code Review & Quality Assurance
-- Legacy Code Refactoring
-- Technical Documentation
-- Team Collaboration & Mentoring
-- Agile/Scrum Methodologies
-- DevOps Best Practices
+### 📚 Learning
+- Machine Learning with Python
+- AI/ML Backend Integration
+- Advanced AWS Services
+- System Design Patterns
+- Cloud-Native Architecture
 
 </td>
 </tr>
 </table>
 
----
+### 🤝 Open to Collaboration
 
-## 💡 Current Focus
-
-🔭 Building scalable backend systems with **Laravel** and **Python**  
-🌱 Deepening knowledge in **Machine Learning** and **AI integration**  
-🎯 Contributing to open-source projects  
-📝 Writing technical articles and documentation  
-🤝 Looking to collaborate on innovative backend solutions  
-
----
-
-## 🔥 Code Showcase
-
-### Building a RESTful API with Laravel
-
-```php
-// routes/api.php
-Route::middleware('auth:sanctum')->group(function () {
-    Route::apiResource('posts', PostController::class);
-    Route::post('posts/{post}/publish', [PostController::class, 'publish']);
-});
-
-// app/Http/Controllers/PostController.php
-class PostController extends Controller
-{
-    public function __construct(
-        private PostService $postService,
-        private CacheService $cache
-    ) {}
-
-    public function index(Request $request): JsonResponse
-    {
-        $posts = $this->cache->remember('posts.all', 3600, function () use ($request) {
-            return $this->postService->getAllPosts(
-                $request->query('per_page', 15)
-            );
-        });
-
-        return response()->json([
-            'success' => true,
-            'data' => PostResource::collection($posts)
-        ]);
-    }
-
-    public function publish(Post $post): JsonResponse
-    {
-        $this->authorize('publish', $post);
-        
-        DB::transaction(function () use ($post) {
-            $post->publish();
-            event(new PostPublished($post));
-        });
-
-        return response()->json([
-            'success' => true,
-            'message' => 'Post published successfully'
-        ]);
-    }
-}
-```
-
-### Python FastAPI Microservice
-
-```python
-from fastapi import FastAPI, Depends, HTTPException
-from sqlalchemy.orm import Session
-from typing import List
-import redis
-import json
-
-app = FastAPI()
-cache = redis.Redis(host='localhost', port=6379, db=0)
-
-@app.get("/api/products/{product_id}")
-async def get_product(
-    product_id: int,
-    db: Session = Depends(get_db)
-):
-    # Check cache first
-    cached = cache.get(f"product:{product_id}")
-    if cached:
-        return json.loads(cached)
-    
-    # Fetch from database
-    product = db.query(Product).filter(Product.id == product_id).first()
-    if not product:
-        raise HTTPException(status_code=404, detail="Product not found")
-    
-    # Cache the result
-    product_data = product.to_dict()
-    cache.setex(f"product:{product_id}", 3600, json.dumps(product_data))
-    
-    return product_data
-
-@app.post("/api/orders")
-async def create_order(
-    order: OrderCreate,
-    db: Session = Depends(get_db),
-    current_user: User = Depends(get_current_user)
-):
-    try:
-        new_order = Order(**order.dict(), user_id=current_user.id)
-        db.add(new_order)
-        db.commit()
-        
-        # Trigger background task
-        await send_order_confirmation.delay(new_order.id)
-        
-        return {"success": True, "order_id": new_order.id}
-    except Exception as e:
-        db.rollback()
-        raise HTTPException(status_code=400, detail=str(e))
-```
-
-### Vue.js Component Integration
-
-```javascript
-// composables/useApi.js
-export const useApi = () => {
-  const fetchPosts = async (page = 1) => {
-    try {
-      const { data } = await $fetch(`/api/posts?page=${page}`, {
-        headers: {
-          'Authorization': `Bearer ${localStorage.getItem('token')}`
-        }
-      })
-      return data
-    } catch (error) {
-      console.error('Failed to fetch posts:', error)
-      throw error
-    }
-  }
-
-  return { fetchPosts }
-}
-
-// components/PostList.vue
-<script setup>
-import { ref, onMounted } from 'vue'
-import { useApi } from '~/composables/useApi'
-
-const { fetchPosts } = useApi()
-const posts = ref([])
-const loading = ref(false)
-
-onMounted(async () => {
-  loading.value = true
-  posts.value = await fetchPosts()
-  loading.value = false
-})
-</script>
-```
+I'm always interested in working on:
+- 🚀 Innovative backend projects
+- 🔧 API development & optimization
+- 🤖 Automation & scripting solutions
+- 📦 Open-source initiatives
+- 🎓 Mentoring & knowledge sharing  
 
 ---
 
@@ -467,20 +272,10 @@ I'm always interested in connecting with fellow developers, discussing new proje
 
 <div align="center">
 
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ch-Kashif171&theme=redical&hide_border=true)
-
----
-
-**⭐️ From [Ch-Kashif171](https://github.com/Ch-Kashif171) - Thanks for visiting!**
+**⭐️ From [Ch-Kashif171](https://github.com/Ch-Kashif171)**
 
 *If you find my work helpful, consider giving it a star ⭐*
+
+**💼 Open for freelance projects and collaborations**
 
 </div>
