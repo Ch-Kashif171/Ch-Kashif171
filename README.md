@@ -32,47 +32,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-### What I’m Building & Improving
-
-🔹 Scalable backend systems  
-🔹 Clean API architecture  
-🔹 Performance optimization & caching strategies  
-🔹 Framework-level abstractions  
-🔹 Refactoring large legacy codebases
-
-<br>
-
-### What I’m Exploring
-
-🔸 Machine Learning with Python  
-🔸 AI-powered backend integrations  
-🔸 Advanced AWS architecture  
-🔸 Cloud-native system design
-
-</div>
-
----
-
-## 🤝 Open to Collaboration
-
-<div align="center">
-
-I’m open to working on meaningful backend-heavy projects where architecture and performance matter.
-
-🚀 Backend systems & SaaS platforms  
-🔌 API design & optimization  
-📦 Framework or package development  
-⚙️ Performance tuning & database optimization  
-🧠 System design discussions
-
-</div>
-
----
-
 ## 🏆 Featured Project
 
 <div align="center">
