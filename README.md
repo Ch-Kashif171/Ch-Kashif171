@@ -20,240 +20,73 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👨‍💻 Professional Profile
-
-<br>
-
-**Name:** M Kashif Sohail  
-**Role:** Senior Backend Developer  
-**Experience:** 8+ Years  
-**Location:** Lahore, Pakistan  
-**GitHub Journey:** Active since 2017  
-**Specialization:** Backend Architecture & API Development
-
-<br>
-<br>
+| 👨‍💻 Professional Profile | 💼 What I Bring to the Table |
+|:---|:---|
+| **Name:** M Kashif Sohail | ✅ **8+ years** of backend development experience |
+| **Role:** Senior Backend Developer | ✅ **Expert** in Laravel, PHP, and JavaScript |
+| **Experience:** 8+ Years | ✅ **Proven** track record in API design |
+| **Location:** Lahore, Pakistan | ✅ **Strong** database optimization skills |
+| **GitHub Journey:** Active since 2017 | ✅ **Experience** with cloud infrastructure (AWS) |
+| **Specialization:** Backend Architecture & API Development | ✅ **Passionate** about clean code & best practices |
+| | ✅ **Active** open-source contributor |
 
 ### 🎯 Current Focus
 
-<br>
-
-- 🏗️ Building scalable backend systems
-- 🔌 Designing robust RESTful APIs
-- 🧹 Refactoring legacy code
-- 📚 Creating technical documentation
-- 🤖 Exploring ML/AI integration
-- 🌟 Contributing to open-source
-
-<br>
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 What I Bring to the Table
-
-<br>
-
-✅ **8+ years** of backend development experience  
-
-✅ **Expert** in Laravel, PHP, and JavaScript  
-
-✅ **Proven** track record in API design  
-
-✅ **Strong** database optimization skills  
-
-✅ **Experience** with cloud infrastructure (AWS)  
-
-✅ **Passionate** about clean code & best practices  
-
-✅ **Active** open-source contributor
-
-<br>
-<br>
+🏗️ Building scalable backend systems • 🔌 Designing robust RESTful APIs • 🧹 Refactoring legacy code • 📚 Creating technical documentation • 🤖 Exploring ML/AI integration • 🌟 Contributing to open-source
 
 ### 🌟 Special Skills
 
-<br>
-
-- Clean Architecture & Design Patterns
-- Microservices Architecture
-- Database Design & Optimization
-- API Security & Authentication
-- Performance Tuning & Caching
-
-<br>
-
-</td>
-</tr>
-</table>
+Clean Architecture & Design Patterns • Microservices Architecture • Database Design & Optimization • API Security & Authentication • Performance Tuning & Caching
 
 ---
 
 ## 🛠️ Technical Expertise
 
-<details open>
-<summary><b>🔧 Backend Development</b></summary>
+### 🔧 Backend Development
 
-<br>
+**Languages:** PHP • JavaScript • TypeScript • Python
 
-### Languages
-**PHP** • **JavaScript** • **TypeScript** • **Python**
+**Frameworks:** Laravel (Expert) • Node.js • AdonisJS • Django • FastAPI
 
-### Frameworks
-**Laravel (Expert)** • **Node.js** • **AdonisJS** • **Django** • **FastAPI**
+**API Design:** RESTful APIs • GraphQL basics • API Documentation (Swagger/OpenAPI)
 
-### API Design
-**RESTful APIs** • **GraphQL basics** • **API Documentation (Swagger/OpenAPI)**
+**Architecture:** MVC • Repository Pattern • Service Layer • Microservices
 
-### Architecture
-**MVC** • **Repository Pattern** • **Service Layer** • **Microservices**
+**Best Practices:** SOLID Principles • Clean Code • Design Patterns • TDD
 
-### Best Practices
-**SOLID Principles** • **Clean Code** • **Design Patterns** • **TDD**
+### 🗄️ Database & Caching
 
-<br>
+**Relational:** MySQL • PostgreSQL  
+**NoSQL:** MongoDB • Redis  
+**ORM:** Eloquent • Django ORM • SQLAlchemy  
+**Expertise:** Query Optimization • Indexing • Database Design • Migration Management
 
-</details>
+### ☁️ DevOps & Infrastructure
 
-<details>
-<summary><b>🗄️ Database & Caching</b></summary>
+**Containerization:** Docker • Docker Compose  
+**Cloud:** AWS (EC2, S3, RDS, Lambda)  
+**Servers:** Nginx • Apache  
+**CI/CD:** GitHub Actions • Jenkins  
+**OS:** Linux (Ubuntu, CentOS) • Windows Server
 
-<br>
+### 🎨 Frontend (Supporting Skills)
 
-### Relational Databases
-**MySQL** • **PostgreSQL**
-
-### NoSQL Databases
-**MongoDB** • **Redis**
-
-### ORM & Query Builders
-**Eloquent** • **Django ORM** • **SQLAlchemy**
-
-### Expertise
-**Query Optimization** • **Indexing** • **Database Design** • **Migration Management**
-
-<br>
-
-</details>
-
-<details>
-<summary><b>☁️ DevOps & Infrastructure</b></summary>
-
-<br>
-
-### Containerization
-**Docker** • **Docker Compose**
-
-### Cloud Services
-**AWS (EC2, S3, RDS, Lambda)**
-
-### Web Servers
-**Nginx** • **Apache**
-
-### CI/CD
-**GitHub Actions** • **Jenkins**
-
-### Operating Systems
-**Linux (Ubuntu, CentOS)** • **Windows Server**
-
-<br>
-
-</details>
-
-<details>
-<summary><b>🎨 Frontend (Supporting Skills)</b></summary>
-
-<br>
-
-### Frameworks
-**Vue.js** • **Nuxt.js**
-
-### Libraries
-**jQuery** • **Ajax**
-
-### Styling
-**Bootstrap** • **CSS3**
-
-### Build Tools
-**Webpack** • **Vite**
-
-### Capabilities
-**Component Development** • **State Management** • **API Integration** • **Dynamic Content Loading**
-
-<br>
-
-</details>
+**Frameworks:** Vue.js • Nuxt.js  
+**Libraries:** jQuery • Ajax  
+**Styling:** Bootstrap • CSS3  
+**Build Tools:** Webpack • Vite  
+**Skills:** Component Development • State Management • API Integration • Dynamic Content Loading
 
 ---
 
 ## 💪 Core Strengths
 
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<th>🏗️ Architecture</th>
-<th>🔌 API Development</th>
-<th>💾 Database Design</th>
-<th>🚀 Performance</th>
-</tr>
-<tr>
-<td align="center">
-
-**Clean Architecture**
-
-Design Patterns
-
-Microservices
-
-SOLID Principles
-
-</td>
-<td align="center">
-
-**RESTful APIs**
-
-GraphQL
-
-Authentication
-
-API Documentation
-
-</td>
-<td align="center">
-
-**Query Optimization**
-
-Indexing
-
-Migration Management
-
-Relationship Design
-
-</td>
-<td align="center">
-
-**Caching Strategies**
-
-Load Balancing
-
-Code Optimization
-
-Scalability
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
+| 🏗️ **Architecture** | 🔌 **API Development** | 💾 **Database Design** | 🚀 **Performance** |
+|:---|:---|:---|:---|
+| Clean Architecture | RESTful APIs | Query Optimization | Caching Strategies |
+| Design Patterns | GraphQL | Indexing | Load Balancing |
+| Microservices | Authentication | Migration Management | Code Optimization |
+| SOLID Principles | API Documentation | Relationship Design | Scalability |
 
 ---
 
@@ -311,8 +144,8 @@ Scalability
 
 ### **DevOps & Tools**
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
@@ -348,30 +181,13 @@ Scalability
 
 ## 💡 Current Focus & Goals
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Working On
-- Building scalable backend systems
-- RESTful API architecture
-- System design & optimization
-- Open-source contributions
-- Technical documentation
-
-</td>
-<td width="50%">
-
-### 📚 Learning
-- Machine Learning with Python
-- AI/ML Backend Integration
-- Advanced AWS Services
-- System Design Patterns
-- Cloud-Native Architecture
-
-</td>
-</tr>
-</table>
+| 🎯 **Working On** | 📚 **Learning** |
+|:---|:---|
+| Building scalable backend systems | Machine Learning with Python |
+| RESTful API architecture | AI/ML Backend Integration |
+| System design & optimization | Advanced AWS Services |
+| Open-source contributions | System Design Patterns |
+| Technical documentation | Cloud-Native Architecture |
 
 ### 🤝 Open to Collaboration
 
