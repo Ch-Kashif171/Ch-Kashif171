@@ -30,14 +30,6 @@
 | **Specialization:** Backend Architecture & API Development | ✅ **Passionate** about clean code & best practices |
 | | ✅ **Active** open-source contributor |
 
-### 🎯 Current Focus
-
-🏗️ Building scalable backend systems • 🔌 Designing robust RESTful APIs • 🧹 Refactoring legacy code • 📚 Creating technical documentation • 🤖 Exploring ML/AI integration • 🌟 Contributing to open-source
-
-### 🌟 Special Skills
-
-Clean Architecture & Design Patterns • Microservices Architecture • Database Design & Optimization • API Security & Authentication • Performance Tuning & Caching
-
 ---
 
 ## 🏆 Featured Project
@@ -137,6 +129,12 @@ Clean Architecture & Design Patterns • Microservices Architecture • Database
 </p>
 
 <br>
+
+---
+
+### 🌟 Special Skills
+
+Clean Architecture & Design Patterns • Microservices Architecture • Database Design & Optimization • API Security & Authentication • Performance Tuning & Caching
 
 ---
 
