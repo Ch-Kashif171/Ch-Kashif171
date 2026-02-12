@@ -132,34 +132,63 @@
 
 ---
 
-### 🌟 Special Skills
+---
 
-Clean Architecture & Design Patterns • Microservices Architecture • Database Design & Optimization • API Security & Authentication • Performance Tuning & Caching
+# 🌟 Core Expertise & Architectural Strengths
+
+### 🧠 System Architecture & Design
+- **Clean Architecture & SOLID principles**
+- **Domain-driven design (DDD)**
+- **Microservices & modular monolith design**
+- **Scalable backend system architecture**
+
+### ⚙️ Backend Engineering Excellence
+- **Advanced API design (RESTful & service-based)**
+- **Authentication, authorization & API security**
+- **Database design, indexing & query optimization**
+- **Performance tuning, caching strategies & scaling**
+
+### 🚀 Engineering Mindset
+- Refactoring complex legacy systems into maintainable architectures
+- Writing defensive, production-grade backend code
+- Designing systems that scale under real-world load
+- Documentation-driven development
 
 ---
 
-## 💡 Current Focus & Goals
+# 🎯 Strategic Focus & Continuous Growth
 
-| 🎯 **Working On** | 📚 **Learning** |
-|:---|:---|
-| Building scalable backend systems | Machine Learning with Python |
-| RESTful API architecture | AI/ML Backend Integration |
-| System design & optimization | Advanced AWS Services |
-| Open-source contributions | System Design Patterns |
-| Technical documentation | Cloud-Native Architecture |
+## 🔨 What I’m Actively Building
 
-# 🤝 🚀 Open to High-Impact Collaboration
+- Large-scale backend platforms
+- High-performance RESTful APIs
+- AI-integrated backend services
+- Framework-level tooling (Larite & ecosystem)
+- Production-ready, scalable architectures
 
-I’m particularly interested in working on:
+## 📚 What I’m Advancing
 
-- **Scalable backend platforms**
-- **API architecture & system refactoring**
+- Machine Learning integration in backend systems
+- Advanced AWS & cloud-native architecture
+- Distributed systems & scaling patterns
+- Intelligent automation using AI
+
+---
+
+# 🚀 🤝 OPEN TO HIGH-IMPACT COLLABORATION
+
+## I Partner On Projects That Demand:
+
+- **Serious backend architecture**
+- **Scalable infrastructure design**
 - **Performance-critical systems**
-- **AI-integrated backend solutions**
-- **Open-source frameworks & developer tooling**
+- **AI-powered backend solutions**
+- **Long-term, maintainable engineering foundations**
 
-If you're building something serious and need strong backend architecture, let’s connect.
+---
 
+### 💬 If you're building something ambitious and need strong backend leadership,
+### let’s build it properly from the ground up.
 ---
 
 ## 📫 Let's Connect
