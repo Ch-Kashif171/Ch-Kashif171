@@ -20,16 +20,17 @@
 
 ## 🚀 About Me
 
-| 👨‍💻 Professional Profile | 💼 What I Bring to the Table |
-|:---|:---|
-| **Name:** M Kashif Sohail | ✅ **8+ years** of backend development experience |
-| **Role:** Senior Backend Developer | ✅ **Expert** in Laravel, PHP, and JavaScript |
-| **Experience:** 8+ Years | ✅ **Proven** track record in API design |
-| **Location:** Lahore, Pakistan | ✅ **Strong** database optimization skills |
-| **GitHub Journey:** Active since 2017 | ✅ **Experience** with cloud infrastructure (AWS) |
-| **Specialization:** Backend Architecture & API Development | ✅ **Passionate** about clean code & best practices |
-| | ✅ **Active** open-source contributor |
+I’m a backend-focused engineer with 8+ years of experience designing scalable systems and production-grade APIs.
 
+My work centers around:
+
+- Architecting maintainable backend systems
+- Designing clean, secure, and scalable APIs
+- Optimizing databases and high-load applications
+- Refactoring legacy systems into structured architectures
+- Building framework-level tooling (Larite)
+
+I care deeply about clean code, system clarity, and long-term maintainability over quick fixes.
 ---
 
 ## 🏆 Featured Project
