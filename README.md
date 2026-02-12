@@ -109,27 +109,6 @@ I’m a **Senior Backend Developer and System Architect**. I have **8+ years of 
 
 ---
 
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ch-Kashif171&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ch-Kashif171&theme=tokyonight" alt="GitHub Profile Summary"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ch-Kashif171&theme=tokyonight" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ch-Kashif171&theme=tokyonight" alt="Top Languages by Commit"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ch-Kashif171&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ch-Kashif171&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
-</p>
-
----
-
 # 🌟 Core Expertise & Architectural Strengths
 
 ### 🧠 System Architecture & Design
@@ -204,6 +183,27 @@ I'm always interested in connecting with fellow developers, discussing new proje
 - 🧩 Love solving complex architectural puzzles
 - 🚀 Always exploring new technologies and best practices
 - ☕ Powered by coffee and clean code
+
+---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ch-Kashif171&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ch-Kashif171&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ch-Kashif171&theme=tokyonight" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ch-Kashif171&theme=tokyonight" alt="Top Languages by Commit"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ch-Kashif171&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ch-Kashif171&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
+</p>
 
 ---
 
