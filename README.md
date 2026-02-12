@@ -1,10 +1,11 @@
 <div align="center">
 
-# 👋 Hi there, I'm M Kashif Sohail
+# 👋 Hi, I'm **Kashif Sohail**
 
-### Senior Backend & PHP (Laravel) Developer | System Architect | Open Source Contributor
+### Senior Backend Developer | PHP (Laravel) Expert | System Architect | Open Source Contributor
 
-*Crafting robust backend systems and scalable solutions for 8+ years*
+Crafting **scalable backend systems** and **robust APIs** for 8+ years.  
+Specializing in **Laravel, PHP, backend architecture, and AI-assisted coding workflows**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-kashif-sohail-ba3b8352/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ch-kashif171.github.io/)
@@ -20,17 +21,26 @@
 
 ## 🚀 About Me
 
-I’m a backend-focused engineer with 8+ years of experience designing scalable systems and production-grade APIs.
+I’m **Kashif Sohail**, a **Senior Backend Developer and System Architect** from Pakistan. I have **8+ years of experience building scalable backend systems, designing RESTful APIs, and refactoring complex legacy systems**.
 
-My work centers around:
+**Key Expertise:**
+- **Backend Development:** Laravel, PHP, Node.js, Django
+- **System Architecture:** Microservices, Clean Architecture, Performance Optimization
+- **Database Design & Optimization:** MySQL, PostgreSQL, MongoDB
+- **AI-Assisted Development:** Using AI tools to improve coding efficiency and maintainability
+- **Open Source Contributions:** Building frameworks, libraries, and developer tools
 
-- Architecting maintainable backend systems
-- Designing clean, secure, and scalable APIs
-- Optimizing databases and high-load applications
-- Refactoring legacy systems into structured architectures
-- Building framework-level tooling (Larite)
+---
 
-I care deeply about clean code, system clarity, and long-term maintainability over quick fixes.
+## 🌟 Special Skills
+
+- Clean Architecture & Design Patterns
+- Microservices Architecture
+- RESTful API Design & Optimization
+- Performance Tuning & Caching
+- API Security & Authentication
+- AI-assisted backend development
+
 ---
 
 ## 🏆 Featured Project
