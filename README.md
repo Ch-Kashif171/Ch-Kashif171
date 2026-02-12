@@ -11,7 +11,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ch.k.sohail)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ch-Kashif171&color=blueviolet&style=for-the-badge)
-[![Followers](https://github.com/Ch-Kashif171?tab=followers)](https://github.com/Ch-Kashif171?tab=followers)
+![GitHub followers](https://img.shields.io/github/followers/Ch-Kashif171?style=for-the-badge&color=yellow)
 ![GitHub stars](https://img.shields.io/github/stars/Ch-Kashif171?style=for-the-badge&color=orange)
 
 </div>
