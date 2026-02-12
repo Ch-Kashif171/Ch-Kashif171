@@ -1,78 +1,415 @@
-## 👋 **Hello, I'm M Kashif Sohail**
+<div align="center">
+
+# 👋 Hi there, I'm M Kashif Sohail
+
+### Senior Backend & PHP (Laravel) Developer | System Architect | Open Source Contributor
+
+*Crafting robust backend systems and scalable solutions for 8+ years*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-kashif-sohail-ba3b8352/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ch-kashif171.github.io/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ch.k.sohail)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ch-Kashif171&color=blueviolet&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Ch-Kashif171?style=for-the-badge&color=yellow)
+![GitHub stars](https://img.shields.io/github/stars/Ch-Kashif171?style=for-the-badge&color=orange)
+
+</div>
 
 ---
 
-![GitHub stars](https://img.shields.io/github/stars/Ch-Kashif171?style=social)
-![GitHub followers](https://img.shields.io/github/followers/Ch-Kashif171?style=social)
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Ch-Kashif171)
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Professional Profile
+
+<br>
+
+**Name:** M Kashif Sohail  
+**Role:** Senior Backend Developer  
+**Experience:** 8+ Years  
+**Location:** Lahore, Pakistan  
+**GitHub Journey:** Active since 2017  
+**Specialization:** Backend Architecture & API Development
+
+<br>
+<br>
+
+### 🎯 Current Focus
+
+<br>
+
+- 🏗️ Building scalable backend systems
+- 🔌 Designing robust RESTful APIs
+- 🧹 Refactoring legacy code
+- 📚 Creating technical documentation
+- 🤖 Exploring ML/AI integration
+- 🌟 Contributing to open-source
+
+<br>
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 What I Bring to the Table
+
+<br>
+
+✅ **8+ years** of backend development experience  
+
+✅ **Expert** in Laravel, PHP, and JavaScript  
+
+✅ **Proven** track record in API design  
+
+✅ **Strong** database optimization skills  
+
+✅ **Experience** with cloud infrastructure (AWS)  
+
+✅ **Passionate** about clean code & best practices  
+
+✅ **Active** open-source contributor
+
+<br>
+<br>
+
+### 🌟 Special Skills
+
+<br>
+
+- Clean Architecture & Design Patterns
+- Microservices Architecture
+- Database Design & Optimization
+- API Security & Authentication
+- Performance Tuning & Caching
+
+<br>
+
+</td>
+</tr>
+</table>
 
 ---
 
-Welcome to my GitHub! I’m a **Senior Backend & PHP (Laravel) Developer** with 8+ years of experience building robust backend systems and architecting scalable solutions.
+## 🛠️ Technical Expertise
+
+<details open>
+<summary><b>🔧 Backend Development</b></summary>
+
+<br>
+
+### Languages
+**PHP** • **JavaScript** • **TypeScript** • **Python**
+
+### Frameworks
+**Laravel (Expert)** • **Node.js** • **AdonisJS** • **Django** • **FastAPI**
+
+### API Design
+**RESTful APIs** • **GraphQL basics** • **API Documentation (Swagger/OpenAPI)**
+
+### Architecture
+**MVC** • **Repository Pattern** • **Service Layer** • **Microservices**
+
+### Best Practices
+**SOLID Principles** • **Clean Code** • **Design Patterns** • **TDD**
+
+<br>
+
+</details>
+
+<details>
+<summary><b>🗄️ Database & Caching</b></summary>
+
+<br>
+
+### Relational Databases
+**MySQL** • **PostgreSQL**
+
+### NoSQL Databases
+**MongoDB** • **Redis**
+
+### ORM & Query Builders
+**Eloquent** • **Django ORM** • **SQLAlchemy**
+
+### Expertise
+**Query Optimization** • **Indexing** • **Database Design** • **Migration Management**
+
+<br>
+
+</details>
+
+<details>
+<summary><b>☁️ DevOps & Infrastructure</b></summary>
+
+<br>
+
+### Containerization
+**Docker** • **Docker Compose**
+
+### Cloud Services
+**AWS (EC2, S3, RDS, Lambda)**
+
+### Web Servers
+**Nginx** • **Apache**
+
+### CI/CD
+**GitHub Actions** • **Jenkins**
+
+### Operating Systems
+**Linux (Ubuntu, CentOS)** • **Windows Server**
+
+<br>
+
+</details>
+
+<details>
+<summary><b>🎨 Frontend (Supporting Skills)</b></summary>
+
+<br>
+
+### Frameworks
+**Vue.js** • **Nuxt.js**
+
+### Libraries
+**jQuery** • **Ajax**
+
+### Styling
+**Bootstrap** • **CSS3**
+
+### Build Tools
+**Webpack** • **Vite**
+
+### Capabilities
+**Component Development** • **State Management** • **API Integration** • **Dynamic Content Loading**
+
+<br>
+
+</details>
 
 ---
 
-# 💫 About Me
+## 💪 Core Strengths
 
-🔭 **Currently working on** backend systems with **PHP (Laravel)** and **Python**, focusing on clean architecture and complex business logic.  
+<br>
 
-👯 **Open to collaborating on** backend projects, APIs, automation, and open-source work.  
+<div align="center">
 
-🤝 **Looking for help with** scalable system design, performance optimization, and AI/ML integration in backend workflows.  
+<table>
+<tr>
+<th>🏗️ Architecture</th>
+<th>🔌 API Development</th>
+<th>💾 Database Design</th>
+<th>🚀 Performance</th>
+</tr>
+<tr>
+<td align="center">
 
-🌱 **Currently learning** Machine Learning and Artificial Intelligence with practical Python applications.  
+**Clean Architecture**
 
-💬 **Ask me about** Laravel internals, backend architecture, databases, refactoring legacy code, and documenting complex logic.  
+Design Patterns
 
-⚡ **Fun fact:** I enjoy turning messy systems into clean, readable code—and documenting them so future developers don’t suffer 😄
+Microservices
+
+SOLID Principles
+
+</td>
+<td align="center">
+
+**RESTful APIs**
+
+GraphQL
+
+Authentication
+
+API Documentation
+
+</td>
+<td align="center">
+
+**Query Optimization**
+
+Indexing
+
+Migration Management
+
+Relationship Design
+
+</td>
+<td align="center">
+
+**Caching Strategies**
+
+Load Balancing
+
+Code Optimization
+
+Scalability
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 ---
 
-## 🏆 Achievements / Notable Work
+## 🏆 Featured Project
 
-### [Larite PHP MVC Framework](https://larite.dev/)
-I develop **Larite**, a custom PHP MVC framework built entirely from scratch and inspired by Laravel, for building scalable and maintainable web applications.  
-I implemented features like routing, middleware, controllers, models, relationships, and more—so developers can enjoy a **Laravel-style structure** without the full Laravel overhead.
+<div align="center">
 
-📖 **Documentation:** [https://larite.dev/](https://larite.dev/)
+### 🌟 [Larite PHP MVC Framework](https://larite.dev/)
 
----
+**A Laravel-inspired PHP MVC framework built from scratch**
 
-## 📄 Resume / Portfolio
+*Enjoy Laravel-style elegance without the overhead*
 
-You can view my detailed **resume and portfolio** here:  
-[![Resume](https://img.shields.io/badge/View_Resume-%230077B5?style=for-the-badge&logo=github&logoColor=white)](https://ch-kashif171.github.io/)
+[![Documentation](https://img.shields.io/badge/Documentation-Visit-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://larite.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ch-Kashif171)
 
----
+</div>
 
-## 💻 Tech Stack
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+**Key Features:**
+- ✅ Complete MVC architecture from scratch
+- ✅ Intuitive routing with middleware support
+- ✅ Eloquent-style ORM with relationships
+- ✅ Built-in authentication & authorization
+- ✅ Template engine and view components
+- ✅ Comprehensive documentation
 
 ---
 
-## 📊 GitHub Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ch-Kashif171&theme=dark&hide_border=false)
+## 💻 Technology Stack
+
+### **Languages**
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+### **Backend Frameworks**
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white)](https://adonisjs.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+
+### **Frontend**
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://nuxt.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Ajax](https://img.shields.io/badge/Ajax-0088CC?style=for-the-badge&logo=ajax&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+
+### **Databases**
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+### **DevOps & Tools**
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-kashif-sohail-ba3b8352/) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://web.facebook.com/ch.k.sohail)
+## 📊 GitHub Statistics
+
+<div align="center">
+
+*Tracking my journey since 2017*
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ch-Kashif171&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ch-Kashif171&theme=tokyonight" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ch-Kashif171&theme=tokyonight" alt="Top Languages by Commit"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ch-Kashif171&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ch-Kashif171&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
+</p>
+
+<br>
+
+---
+
+## 💡 Current Focus & Goals
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Working On
+- Building scalable backend systems
+- RESTful API architecture
+- System design & optimization
+- Open-source contributions
+- Technical documentation
+
+</td>
+<td width="50%">
+
+### 📚 Learning
+- Machine Learning with Python
+- AI/ML Backend Integration
+- Advanced AWS Services
+- System Design Patterns
+- Cloud-Native Architecture
+
+</td>
+</tr>
+</table>
+
+### 🤝 Open to Collaboration
+
+I'm always interested in working on:
+- 🚀 Innovative backend projects
+- 🔧 API development & optimization
+- 🤖 Automation & scripting solutions
+- 📦 Open-source initiatives
+- 🎓 Mentoring & knowledge sharing  
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in connecting with fellow developers, discussing new projects, or exploring collaboration opportunities!
+
+- 💼 **LinkedIn:** [M Kashif Sohail](https://www.linkedin.com/in/m-kashif-sohail-ba3b8352/)
+- 🌐 **Portfolio:** [ch-kashif171.github.io](https://ch-kashif171.github.io/)
+- 📧 **Ask me about:** Laravel internals, backend architecture, system design, or refactoring legacy code
+
+---
+
+## ⚡ Fun Facts
+
+- 🎨 I find joy in transforming messy codebases into clean, readable masterpieces
+- 📚 Documentation enthusiast – I believe good docs save countless developer hours
+- 🧩 Love solving complex architectural puzzles
+- 🚀 Always exploring new technologies and best practices
+- ☕ Powered by coffee and clean code
+
+---
+
+<div align="center">
+
+**⭐️ From [Ch-Kashif171](https://github.com/Ch-Kashif171)**
+
+*If you find my work helpful, consider giving it a star ⭐*
+
+**💼 Open for freelance projects and collaborations**
+
+</div>
